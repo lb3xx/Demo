@@ -1,5 +1,4 @@
 package LBXX;
-//有些是复制的。。。
 
 import java.util.Scanner;
 
