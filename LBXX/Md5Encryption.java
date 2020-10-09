@@ -2,7 +2,7 @@ package LBXX;
 import java.math.BigInteger;
 import java.security.MessageDigest;
 import java.util.Scanner;
-//     我不太会写这个，抄很多
+
 public class Md5Encryption implements LBXX.Encryption {
     public static String getMD5(String str) {
         try {
